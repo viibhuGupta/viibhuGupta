@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I'm Currently Learning Back-end development<br>👯  A Second Year BCA Student <br>🌱  Front-end React developer (React, JavaScript, Tailwindcss, CSS, HTML5 )<br>⚡ Love to create Visually Appear Project<br>
 # 🤌🏼 Some Project's
-1. <a href="[priceWallah](https://pricewallah.vercel.app/)" target="_blank">Science Coching</a> <br/>
+1.  <a href= "https://pricewallah.vercel.app/" target="_blank">PriceWallah</a> <br/>
 2.  <a href="https://sciencecoching.netlify.app/" target="_blank">Science Coching</a> <br/>
 3.    <a href="https://top-new-cources.netlify.app/" target="_blank" >Top Cources Website</a>  <br/>
 4. <a href="https://react-counter-app-1.netlify.app/" target="_blank" >React Counter App</a>  <br/>
