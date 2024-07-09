@@ -5,6 +5,14 @@
 - [Price Wallah](https://pricewallah.vercel.app/)
 - [Ai Hub](https://aihub-cyan.vercel.app/)
 - [Science Coaching](https://sciencecoching.netlify.app/)
+
+
+
+- <a href="https://habit-tracker-sigma-red.vercel.app/" target="_blank">Habit Tracker</a>
+- <a href="https://pricewallah.vercel.app/" target="_blank">Price Wallah</a>
+- <a href="https://aihub-cyan.vercel.app/" target="_blank">Ai Hub</a>
+- <a href="https://sciencecoching.netlify.app/" target="_blank">Science Coaching</a>
+
   
 
 
