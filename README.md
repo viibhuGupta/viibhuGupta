@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm Currently Learning Back-end development<br>👯  A Second Year BCA Student <br>🌱  Front-end React developer (React, JavaScript, Tailwindcss, CSS, HTML5 )<br>⚡ Love to create Visually Appear Project<br>
+🔭 I'm Currently Learning Back-end development<br>👯  A Second Year BCA Student <br>🌱  Front-end React developer (Nextjs ,Reactjs ,JavaScript, Tailwindcss, CSS, Framer Motion ,Sass ,HTML5 )<br>⚡ Love to create Visually Appear Project<br>
 # 🤌🏼 Some Project's
 - [Habit Tracker](https://habit-tracker-sigma-red.vercel.app/)
 - [Price Wallah](https://pricewallah.vercel.app/)
