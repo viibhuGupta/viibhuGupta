@@ -1,11 +1,11 @@
 # 💫 About Me:
 🔭 I'm Currently Learning Back-end development<br>👯  A Second Year BCA Student <br>🌱  Front-end React developer (React, JavaScript, Tailwindcss, CSS, HTML5 )<br>⚡ Love to create Visually Appear Project<br>
 # 🤌🏼 Some Project's
-1.  [HABIT TRACKER](https://habit-tracker-sigma-red.vercel.app/)
-2.  <a href= "https://pricewallah.vercel.app/" target="_blank">PriceWallah</a> <br/>
-3.    <a href= "https://aihub-cyan.vercel.app/" target="_blank">AiHUB</a> <br/>
-4.  <a href="https://sciencecoching.netlify.app/" target="_blank">Science Coching</a> <br/>
-5.    <a href="https://top-new-cources.netlify.app/" target="_blank" >Top Cources Website</a>  <br/>
+- [Habit Tracker](https://habit-tracker-sigma-red.vercel.app/)
+- [Price Wallah](https://pricewallah.vercel.app/)
+- [Ai Hub](https://aihub-cyan.vercel.app/)
+- [Science Coaching](https://sciencecoching.netlify.app/)
+  
 
 
 
