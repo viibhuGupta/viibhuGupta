@@ -1,9 +1,9 @@
 # 💫 About Me:
 🔭 I'm Currently Learning Back-end development<br>👯  A Second Year BCA Student <br>🌱  Front-end React developer (Nextjs ,Reactjs ,JavaScript, Tailwindcss, CSS, Framer Motion ,Sass ,HTML5 )<br>⚡ Love to create Visually Appear Project<br>
 # 🤌🏼 Some Project's
-- [Habit Tracker](https://habit-tracker-sigma-red.vercel.app/)
+- [Habit Tracker](https://habittrackerme.vercel.app/)
 - [Price Wallah](https://pricewallah.vercel.app/)
-- [Ai Hub](https://aihub-cyan.vercel.app/)
+- [Ai Hub](https://aihubme.vercel.app/)
 - [Science Coaching](https://sciencecoching.netlify.app/)
 - [Course Filter](https://filter-course.vercel.app/)
 
