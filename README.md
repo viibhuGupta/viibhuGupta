@@ -5,6 +5,7 @@
 - [Price Wallah](https://pricewallah.vercel.app/)
 - [Ai Hub](https://aihub-cyan.vercel.app/)
 - [Science Coaching](https://sciencecoching.netlify.app/)
+- [Course Filter](https://filter-course.vercel.app/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vibhu-gupta-918042221/) 
