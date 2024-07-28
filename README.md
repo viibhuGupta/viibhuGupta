@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I'm Currently Learning Back-end development<br>👯  A Second Year BCA Student <br>🌱  Front-end React developer (Nextjs ,Reactjs ,JavaScript, Tailwindcss, CSS, Framer Motion ,Sass ,HTML5 )<br>⚡ Love to create Visually Appear Project<br>
 # 🤌🏼 Some Project's
-- [Dsa With Java ](https://github.com/viibhuGupta/Dsa-With-Java)
+
 - [Habit Tracker](https://habit-trackerr.vercel.app/)
 - [Price Wallah](https://pricewallah.vercel.app/)
 - [Ai Hub](https://aihubme.vercel.app/)
